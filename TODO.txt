@@ -1,0 +1,33 @@
+App Setup MVC and REST Services:
+Thymeleaf template based Spring boot app setup - done
+Integrate basic form authentication with database - done
+Integrate with login with facebook and google - pending
+On successful login, give user a link to view his portfolio.
+On click of portfolio, invoke the portfolio data service to get current user's portfolio and show it in grid.
+tst url: http://localhost:8090/portfolio-service/services/holdings/getallforuser/gaurav.rehan@gmail.com
+
+
+
+
+On failed login show error page.
+Integrate Bootstrap for styling
+
+
+
+MISC
+
+mysql:
+TCP/IP PORT:3306 XProtocolPort: 33060
+root user: root
+root password: root
+
+User created:
+portfolio
+portfolio
+Role: DB Admin
+
+Default login created in the app:
+gaurav.rehan@gmail.com
+India123*
+
+
